@@ -1,0 +1,28 @@
+2025-06-15 19:46:07,500 - INFO - Scraping subreddit: relationships
+2025-06-15 19:46:07,704 - ERROR - Error scraping relationships: received 401 HTTP response
+2025-06-15 19:46:07,704 - INFO - Scraping subreddit: AmItheAsshole
+2025-06-15 19:46:07,856 - ERROR - Error scraping AmItheAsshole: received 401 HTTP response
+2025-06-15 19:46:07,856 - INFO - Scraping subreddit: relationship_advice
+2025-06-15 19:46:08,002 - ERROR - Error scraping relationship_advice: received 401 HTTP response
+2025-06-15 19:46:08,003 - INFO - Scraping subreddit: confessions
+2025-06-15 19:46:08,150 - ERROR - Error scraping confessions: received 401 HTTP response
+2025-06-15 19:46:08,151 - INFO - Scraping subreddit: tifu
+2025-06-15 19:46:08,298 - ERROR - Error scraping tifu: received 401 HTTP response
+2025-06-15 19:46:08,298 - WARNING - No stories found matching criteria
+2025-06-15 19:47:41,744 - INFO - Scraping subreddit: relationships
+2025-06-15 19:47:41,936 - ERROR - Error scraping relationships: received 401 HTTP response
+2025-06-15 19:47:41,936 - INFO - Scraping subreddit: AmItheAsshole
+2025-06-15 19:47:42,084 - ERROR - Error scraping AmItheAsshole: received 401 HTTP response
+2025-06-15 19:47:42,084 - INFO - Scraping subreddit: relationship_advice
+2025-06-15 19:47:42,270 - ERROR - Error scraping relationship_advice: received 401 HTTP response
+2025-06-15 19:47:42,270 - INFO - Scraping subreddit: confessions
+2025-06-15 19:47:42,413 - ERROR - Error scraping confessions: received 401 HTTP response
+2025-06-15 19:47:42,413 - INFO - Scraping subreddit: tifu
+2025-06-15 19:47:42,541 - ERROR - Error scraping tifu: received 401 HTTP response
+2025-06-15 19:47:42,541 - WARNING - No stories found matching criteria
+2025-06-15 19:49:02,611 - INFO - Scraping subreddit: relationships
+2025-06-15 19:49:06,410 - INFO - Scraping subreddit: AmItheAsshole
+2025-06-15 19:49:14,501 - INFO - Scraping subreddit: relationship_advice
+2025-06-15 19:49:24,727 - INFO - Scraping subreddit: confessions
+2025-06-15 19:49:26,247 - INFO - Scraping subreddit: tifu
+2025-06-15 19:49:29,398 - INFO - Saved 10 stories to reddit_stories.json
